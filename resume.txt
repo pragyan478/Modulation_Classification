@@ -1,0 +1,320 @@
+\documentclass[10pt]{article}
+\usepackage[left=.5in,top=.5in,right=.5in,bottom=.5in]{geometry}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{float}
+\usepackage{booktabs}
+\newcommand{\tabitem}{~~\llap{\textbullet}~~}
+\usepackage{enumitem}
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
+\usepackage{url}
+\usepackage{float}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+\usepackage{array}
+\usepackage{fancyhdr}
+
+\begin{document} 
+
+\pagestyle{plain}
+\raggedright
+
+%-------Introduction-------%
+
+{\huge\bf P\LARGE\bf RAGYAN \huge\bf P\LARGE\bf ANDEY }  \\
+
+Senior Undergraduate \hfill Phone: +(91)955 902 4089 \\
+Indian Institute of Technology Kanpur \hfill E-mail ID: \href{mailto:pragyan.pandey.int@gmail.com}{pragyan@iitk.ac.in}\\
+%Major: Mechanical Engineering \hfill Homepage: %\url{http://adityajaas.github.io/}\\
+\vspace{.5ex}
+\hline 
+\vspace{2ex}
+
+%-------Educational Qualifications------%
+{\large \bf EDUCATIONAL \large \bf QUALIFICATIONS}
+\vspace{.5ex} \hline \vspace{-1.5ex} 
+
+\begin{table}[h!]
+\makebox[\linewidth]{
+\begin{tabular}{|>{\centering\arraybackslash}m{2cm} | >{\centering\arraybackslash}m{7.2cm} | >{\centering\arraybackslash}m{6cm} | >{\centering\arraybackslash}m{1.8cm} |}
+\hline
+    Year & Degree/Certificate & Institute/School & CGPA/\% \\
+\hline
+    2021-Present &M-Tech, Electrical Engineering & Indian Institute of Technology Kanpur & 10.0/10.0\\
+\hline
+    2017-2021 &B-Tech, Electrical Engineering & Indian Institute of Technology Kanpur & 9.06/10.0\\
+\hline
+    2017 & Class XII, CBSE & M.G. Convent School, Lucknow & 91.8\% \\
+\hline
+    2015 & Class X, CBSE & Lucknow Public School, Lucknow & 9.8/10.0 \\
+\hline
+
+\end{tabular}
+}
+\end{table}
+ \vspace*{-.5em} 
+%\begin{table} [H]
+%     \centering \hline
+ %    \begin{tabular}{|M{2.5cm}|M{5.7cm}|M{7.1cm}|M{2cm}|}
+ %       {\bf Year} & {\bf Degree/Certificate} & {\bf Institute/School} & {\bf CGPA/\%}   \\ \hline
+%2015-Present & B.Tech Mechanical Engineering & Indian Institute of Technology, Kanpur & 8.2 \\ \hline
+%2014 & Class XII(U.P. Board) & Govt. Jubilee Inter College, Gorakhpur & 89.4\% \\ \hline
+%2012 & Class X(U.P. Board) & Sarvodaya I.C., Deoria & 90.5\%\\ \hline
+       
+  %    \end{tabular}%
+ %   \end{table} 
+%------Research Interests-------%
+
+% {\large \bf INTERESTS} \vspace{.5ex} \hline \vspace{1ex}
+%      \textbf{Broad Areas of Interest:} Robotics, Control Systems, Machine Dynamics, Sensors.\\
+%      \vspace{1.5 ex}
+     
+%---Scholastic Achievements----%
+
+    {\large \bf HONORS AND ACHIEVEMENTS} \vspace{.5ex} \hline \vspace{1ex} 
+    \begin{itemize}[noitemsep,nolistsep]
+    
+        \item Awarded \textbf{Academic Excellence Award} for the year 2017-18 and 2018-19 consecutively by IIT Kanpur.
+    
+        \item Awarded \textbf{Kishore Vaigyanik Protsahan Yojana (KVPY) fellowship} (SX-Stream) by \textbf{IISC Bangalore}.
+        \item Secured \textbf{All India Rank 629} in JEE(Joint Entrance Examination) - Advanced 2017 among \textbf{0.2 million candidates}.
+        \item Secured \textbf{All India Rank 227} in JEE(Joint Entrance Examination) - Mains 2017 among \textbf{1.2 million candidates}.
+        \item Secured \textbf{All India Rank 10} in UPSEE(State Entrance Examination) among \textbf{0.2 million candidates}.
+        \item Received \textbf{A* grade} (top 1-2\% students in the course) for exceptional performance in courses - Machine Learning For Wireless Communication, Philosophy of Cognitive Science, Introduction to Mechanics and Technical Arts.
+    \end{itemize}
+    \vspace{1.5ex}
+     
+     
+
+%------Internships-------%
+
+%  {\large \bf SUMMER INTERNSHIP} \vspace{.5ex} \hline \vspace{1ex}
+%  { \bf DESIGN AND DEVELOPMENT OF A MODULAR, AUTONOMOUSLY RECONFIGURABLE DUAL - MANIPULATOR FOR CONSCIOUS HOVERING TYPE AUTONOMOUS UNDERWATER VEHICLE}\\
+%   \textit{Redone Technologies Co. Ltd., South Korea, Mentor: Prof. Yong Seon Moon (CTO)}
+% \hfill
+% \textit{May'18-Jul'18}
+%     \begin{itemize}[noitemsep,nolistsep]
+%     \item Prepared a literature survey on the forward and the inverse kinematics for seven degree of freedom (DOF) redundant robot manipulator with emphasis on exploiting the solutions of the forward kinematics.
+%     \item Obtained the best configurations having high mobility and vast working space out of all possible ones for three and four DOF manipulators by solving the forward kinematics problems and comparing the functional workspaces.  
+%     \item Determined a seven DOF manipulator configuration having maximum workspace when the arm is fully extended and minimum workspace when it is folded.
+%     \item Understood the variable buoyancy (VB) technology and proposed a suitable VB system for h-AUV after comparing the various systems qualitatively.
+%     \end{itemize}
+%     \vspace{1.5ex}
+
+
+
+%-----Key Projects Undertaken-----%
+{\large \bf PROJECTS UNDERTAKEN} \vspace{.75ex} \hline \vspace{1ex}
+   
+
+{ \bf Video Surveillance for Human States Detection | Undergraduate Project}\\
+   \textit{Mentor: Dr. K.S. Venkatesh, Professor, IIT Kanpur}
+    \hfill
+    \textit{Aug'20-Present}
+    \begin{itemize}[noitemsep,nolistsep]
+        \item  Developed a part of \textbf{human surveillance and logging system} which detects and measures the different aspects of human states logged for each individual against timestamp.
+        
+        \item The system utilized \textbf{Machine Learning} approaches(\textbf{YOLO, attention blocks, etc}) as well as traditional \textbf{Image Processing techniques(mean-shift, background foreground extraction, etc)} to track humans and monitor their body profile(frontal, left, right, rear and their combinations) and their occlusion states.
+        
+        \item Also implemented and programmed various heuristics and models to determine the pose states(standing, sitting, lying and others), the camera proximity state and the motion state(position, velocity, acceleration) of humans in videos.
+        
+    \end{itemize}
+\vspace{1ex} 
+{ \bf Employee Feedback Management System | Summer of Code'19 IIT Kanpur} \\
+    \textit{Mentor: Dr. Sandeep Shukla, Professor, Computer Science and Engineering, IIT Kanpur}
+    \hfill
+    \textit{May'19-Jul'19}
+    \begin{itemize}[noitemsep,nolistsep]
+        \item Developed an employee performance tracking and feedback platform using modern \textbf{web technologies} like \textbf{ReactJS, NodeJS, MongoDB (MERN stack)}.
+        \item Platform allows teams to collaborate and proactively \textbf{track goals} and receive \textbf{review based feedback} from managers, making it easy for the managers to track deadlines and work progress of each individual of their team.
+        \item Also featured an inbuilt \textbf{chat application} for ease of communication between the manager and their teams.
+        % \item Assisted in developing a LabVIEW interface for \textbf{Hardware in the Loop (HiL}) simulation to study regenerative chatter (unstable tool point vibration) in orthogonal cutting.
+    \end{itemize} 
+\vspace{1ex}
+
+
+{\large \bf INDUSTRIAL EXPERIENCE}\vspace{.75ex} \hline \vspace{1ex}
+
+{ \bf Samsung Research Institute, Bangalore | Summer Internship}\\
+   \textit{Mentor: Mr. Hiren Bharabhai Gajjar, AI R\&D Department}
+    \hfill 
+    \textit{May'20-Jul'20}
+    
+\begin{itemize}[noitemsep,nolistsep]
+        \item Part of \textbf{OnDevice Artificial Intelligence} Team working on \textbf{SNAP(Samsung Neural Acceleration Platform) Software Development Kit}.
+        \item Developed Stable Interface(in C++) for SNAP SDK using \textbf{AIDL(Android Interface Definition Language)} as a result of which multiple applications in Samsung Devices can run \textbf{pre-trained Neural Networks OnDevice concurrently} optimizing resources like battery, CPU, GPU unlike before when only one application was able to do so.
+        \item Further wrote \textbf{APIs} to provide various functionality to \textbf{Android application developers}. For eg :- Choice of - \textbf{compute engine(CPU/GPU/NPU), framework(Tensorflow, Caffe)}, etc.
+        % \item The completely automated Straightening Machine has a screw self-arranging system, an induction heating mechanism, and a synchronized rolling mechanism to get the desired product.
+    \end{itemize}
+\vspace{1ex}    
+
+
+
+\vspace{1.5ex}
+ 
+ %-----Relavant Coursework-----%
+ 
+{\large\bf RELEVANT COURSEWORK} 
+\vspace{0.75ex} 
+\hline 
+\vspace{1ex} 
+
+\begin{tabular}{|l|l|l|l|l|}
+\hline
+\ Machine Learning in Signal Processing* & Image Processing* & Time Series Analysis* \\
+\hline
+\ Data Mining and Knowledge Discovery* & Digital Signal Processing & Digital Electronics \\%Manufacturing Science \& Technology \\
+\hline
+\ Principles of Database Management & Data Structures and Algorithms & Principles of Communication \\
+\hline
+\ Probability and Statistics & Complex Variables & Partial Differential Equations \\
+\hline
+\  Linear Algebra  & Calculus and Analytical Geometry & Engineering Graphics \\
+\hline
+\ Fundamentals of Computing & Signals, Systems and Networks & Control Systems Analysis\\
+\hline
+\ Deep Learning and Neural Network Specialization$^{a}$ & Tensorflow$^{a}$ & Intro to Electronics\\
+\hline
+\end{tabular} 
+ \vspace*{-.8em} 
+\begin{flushright}
+\vspace{0.6ex}
+\textit{$^{a}$Online Course, *Fall'20(ongoing)}
+\end{flushright}
+\vspace*{-.7em}
+%\vspace{1.5ex}
+
+%------Relavant Skills----%
+\newpage
+{\large \bf RELEVANT SKILLS} \vspace{0.75ex} 
+    \hline \vspace{1ex}
+\begin{itemize}[noitemsep,nolistsep]
+\item \textbf{Software Packages/Web Utilities:} AutoCAD, MATLAB, ReactJS, NodeJS, JavaScript, CSS, ES6, MongoDB, MS Office,  \LaTeX, Github
+\item \textbf{Programming Languages:} C, C\texttt{++}, Python, R, MySQL
+\item \textbf{Libraries:} Pandas, Numpy, Tensorflow, Keras, OpenCV 
+\item \textbf{Operating System:} Linux, MacOS, Windows
+\end{itemize}
+\vspace{1.0ex}
+
+%-------Positions of Responsibility----%
+\begin{table}[H]
+{\large \bf POSITIONS OF RESPONSIBILITY} \vspace{.75ex} \hline \vspace{1ex}
+{ \bf PUBLIC RELATIONS MANAGER | ANTARAGNI'19 | IIT KANPUR}
+\hfill
+\textit{July'18-May'19}
+\vspace{1ex}
+\hline 
+ 
+\setlist[itemize]{wide=0.35em, leftmargin = *, itemsep=-3pt, before=\vspace*{-\dimexpr\baselineskip+\partopsep}, after =\vspace*{\dimexpr-\baselineskip+\partopsep}}
+
+\begin{tabular}{>{\centering\arraybackslash} m{20mm}| m{16.15cm}}
+    {\multirow{1}{*}{Leadership}} & \vspace{1.5ex}
+    \begin{itemize}[noitemsep]
+        \item Leading a 2 tier-team of 32 members for smooth operation of talks, exhibitions and performances in Antaragni'19(Cultural Fest of IIT Kanpur).
+    \end{itemize}
+   \\ \hline
+   
+    {\multirow{1}{*}{Managerial }} & \vspace{1.5ex}
+    \begin{itemize}[noitemsep]
+        \item Responsible for the arrangement of various shows and professional nights and also for taking care of the hospitality of our performers.
+        \item Prepared a database with the help of my team of various artists around the globe and contacted embassies of Canada, Ireland and Spain for inviting these performers to India.
+    \end{itemize}
+    \\ \hline
+\end{tabular}
+
+\vspace{1ex}
+
+{ \bf STUDENT GUIDE | COUNSELLING SERVICE | IIT KANPUR}
+\hfill
+\textit{Aug'18- Apr'19}
+\vspace{1ex}
+ \hline   
+
+    \begin{tabular}{p{0.4cm}|p{17.75cm}}
+        \tabitem &  Helped in conducting Orientation Program for more than 900 incoming freshers. \\ 
+        \tabitem &  Mentored a group of 6 freshmen academically and personally to get adjusted to the new college environment.
+% \vspace{1ex}
+%   & \tabitem Organized various workshops and events throughout the year as Secretary, H.S.S., IITK.\hspace*{6.56ex} \textit{2016}
+%   \\ \hline
+% {\multirow{2}{*}{Others \hspace*{7.2ex}}}& \tabitem Helped the freshmen batch academically as Academic Mentor, Counselling Service IITK.\hspace*{6.12ex} \textit{2016}\\
+%  & \tabitem Actively involed in dealing with media companies as Senior Executive in Inter IIT'16. \hspace*{8.45ex} \textit{2016}
+  \\ 
+\end{tabular}
+ \hline
+ \vspace{1.5ex}
+ { \bf ACADEMIC MENTOR | COUNSELLING SERVICE | IIT KANPUR}
+\hfill
+\textit{Aug'18- Apr'19}
+\vspace{1ex}
+ \hline   
+
+    \begin{tabular}{p{0.4cm}|p{17.75cm}}
+        \tabitem & Helped freshers in academics by taking remedial classes in lecture halls as well as in hostels. \\ 
+        \tabitem & Did One-to-One mentoring of 2 students who were not able to cope up with the courses.
+% \vspace{1ex}
+%   & \tabitem Organized various workshops and events throughout the year as Secretary, H.S.S., IITK.\hspace*{6.56ex} \textit{2016}
+%   \\ \hline
+% {\multirow{2}{*}{Others \hspace*{7.2ex}}}& \tabitem Helped the freshmen batch academically as Academic Mentor, Counselling Service IITK.\hspace*{6.12ex} \textit{2016}\\
+%  & \tabitem Actively involed in dealing with media companies as Senior Executive in Inter IIT'16. \hspace*{8.45ex} \textit{2016}
+  \\ 
+\end{tabular}
+\hline
+\end{table}
+
+% { \bf SENIOR EXECUTIVE, ENTREPRENEURSHIP CELL, IITK}
+% \hfill
+% \textit{May'16-Apr'17}
+% \begin{itemize}[noitemsep,nolistsep]
+
+% \item Organized Startup-101 and R.K. Memorial lecture series to \textbf{create entrepreneurial environment} in the campus. 
+% \item Coordinated with E-cell team in organizing E-Summit'16, annual entrepreneurial festival of IIT Kanpur and  Hackathon in association with GDG, IIT Kanpur to \textbf{promote start-ups}.
+% \end{itemize}
+%----Extra Curricular Activities---%
+\vspace{-0.5em}
+{\large \bf EXTRA CURRICULAR ACTIVITIES}  \vspace*{-1em}
+\begin{table} [H]
+     \hline
+   \vspace{0.25em}
+\begin{tabular}{p{0.4cm}|p{17.75cm}}
+
+\tabitem & \textbf{Inter IIT Cultural Meet’19}: Part of the Institute Dance Team that won Inter IIT Dance Trophy\\
+
+
+\tabitem & \textbf{Galaxy’19(Inter-Hostel Cultural Competition)}: Led the team of 25 and bagged 1st position in dance events \\
+
+
+\tabitem & Successfully completed training as a cadet of \textbf{National Cadet Corps}, 2 UP COMP(TECH)REGT. IIT Kanpur \\
+
+
+\tabitem &  \textbf{Volunteer Antaragni'17}: Contacted various college teams across the country for participation and managed the hospitality of an entire college team \\
+\hline
+
+\end{tabular}    
+\end{table} \vspace*{-1em}
+% {\bf Hobbies:} Enthusiast in reading novels and writing poems.
+% \vspace{1.5ex}
+
+%-----Academic References------%
+% \vspace{1.5ex}
+% {\large \bf ACADEMIC REFERENCES} \vspace{.5ex} 
+% \hline \vspace{2ex}
+% {\bf DR. MOHIT LAW}     \hspace*{50.1ex}  {\bf DR. JISHNU BHATTACHARYA}\\
+% Assistant Professor, \hspace*{52.5ex} Assistant Professor,\\
+% Department of Mechanical Engineering, \hspace*{32.2 ex} Department of Mechanical Engineering, \\
+% Indian Institute of Technology Kanpur \hspace*{33.3ex} Indian Institute of Technology Kanpur \\
+% Email: mlaw@iitk.ac.in \hspace{49ex} Email: jishnu@iitk.ac.in \\
+% Contact: +91-512-259-6897 \hspace{45ex} Contact: +91-512-259-7684\\
+% Webpage: \url{http://home.iitk.ac.in/~mlaw/}  \hspace*{26.7ex} Webpage: \url{http://home.iitk.ac.in/~jishnu/} \\
+% \vspace{1ex}
+% {\bf DR. SANTANU DE } \\
+% Assistant Professor,\\
+% Department of Mechanical Engineering,\\
+% Indian Institute of Technology Kanpur\\
+% Email: sde@iitk.ac.in \\
+% Contact: +91-512-259-6478\\
+% Webpage: \url{http://home.iitk.ac.in/~sde/}
+
+\end{document}
+
+
