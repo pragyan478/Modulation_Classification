@@ -11,7 +11,7 @@ span_TX =20;
 
 % User1
 beta_1 = 0.35; % only these values have to be used[0.05, 0.1, 0.15, 0.2, 0.25, 0.35]
-mod_1 =4;
+mod_1 =8;
 % User2
 beta_2 = beta_1;
 mod_2 = mod_1;
@@ -32,7 +32,7 @@ No_samples_beta_est = 1e6;
 
 %% Channel Parameters
 
-snr = 10; %in dB
+snr = 12; %in dB
 
 % Frequency offset. 
 df1 = 50; % in Hertz

@@ -41,7 +41,7 @@ h1_db= snr; %snr in dB
 h1=10.^(h1_db/10);
 h2=h1;
 h2_db=10*log10(h2);
-beta=0.35;
+beta=0.25;
 N=n1/k1;
 
 %Defining the constellations without any noise

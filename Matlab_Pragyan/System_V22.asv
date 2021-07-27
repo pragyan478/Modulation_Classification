@@ -8,13 +8,13 @@ error=[];
 %% TX Generation
 % User1
 data1 = randi([0 mod_1-1], No_samp, 1);
-% modData1 = qammod(data1, mod_1,'UnitAveragePower',true);
-modData1 = pskmod(data1, mod_1);
+modData1 = qammod(data1, mod_1,'UnitAveragePower',true);
+% modData1 = pskmod(data1, mod_1);
 
 
 % User 2
 data2 = randi([0 mod_2-1], No_samp, 1);
-% modData2 = qammod(data2, mod_2,'UnitAveragePower',true);
+modData2 = qammod(data2, mod_2,'UnitAveragePower',true);
 modData2 = pskmod(data2, mod_2);
 
 % Upsample the data and filter the data
